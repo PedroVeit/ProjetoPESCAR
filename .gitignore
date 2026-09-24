@@ -1,0 +1,13 @@
+﻿# Planilhas com dados pessoais (não versionar)
+data/*.xlsx
+data/*.xlsm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
