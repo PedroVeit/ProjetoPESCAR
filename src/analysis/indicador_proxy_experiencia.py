@@ -54,7 +54,7 @@ COL_TRABALHOU = "JÁ TRABALHOU COM CARTEIRA ASSINADA OU ESTÁGIO?"
 PREFIXO_EXCLUIR = "Endere"
 
 # Regex de nome de arquivo: <Unidade>_<Ano>[_N].xlsx
-RE_NOME_ARQUIVO = re.compile(r"(.+?)_(\d{4})(?:.*)?\.xlsx$")
+RE_NOME_ARQUIVO = re.compile(r"(.+?)[ _]+(\d{4})(?:.*)?\.xlsx$")
 
 
 # ---------------------------------------------------------------------------
