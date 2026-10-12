@@ -1,6 +1,7 @@
 ﻿# Planilhas com dados pessoais (não versionar)
-data/*.xlsx
-data/*.xlsm
+data/**/*.xlsx
+data/**/*.xlsm
+data/**/*.zip
 
 # Python
 __pycache__/
